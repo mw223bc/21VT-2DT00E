@@ -18,7 +18,7 @@ Anaconda comes pre-installed with most of these libraries except PyTorch and Num
 
 ### Installing
 
-No installation is required to run the script. However, the Bag of Word and the UTR sequence 3 k-mer data needs to be unzipped beforehand. And the file directory must stay unchanged.
+No installation is required to run the script. However, the Bag of Word and the UTR sequence 3 k-mer data needs to be unzipped beforehand. The file directory also needs to stay unchanged.
 
 ### Executing program
 
